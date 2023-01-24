@@ -8,3 +8,15 @@
     min-height: 500px;
     overflow:hidden;
 }
+
+.portfolio-item img{
+    border-radius: 50px;
+}
+
+.portfolio-hover{
+    border-radius: 50px;
+}
+
+.portfolio-caption{
+    border-radius: 15px;
+}
